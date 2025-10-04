@@ -3,7 +3,7 @@
 ## 🙋🏽‍♂️ About Me
 I'm a passionate Robotics and AI researcher currently living in Oulu, Finland. My work focuses on autonomous systems, multi-robot exploration, and human-robot interaction. I love using tools like ROS, OpenCV, and PyTorch to bring intelligent robots to life.
 
-**Languages and Tools:**  
+##Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Phython")
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb "MongoDB")
