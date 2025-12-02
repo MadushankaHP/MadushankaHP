@@ -28,5 +28,6 @@ I'm a passionate Robotics and AI researcher currently living in Oulu, Finland. M
 
 ## 🤗 So Glad You're Here!
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=fxbbVRsiz6VsOOs4tP5H61Prk-yEry04lqvyWlx_hOQ&cl=ffffff&w=a"></script>
-
+<a href="https://mapmyvisitors.com/web/1c10r" title="Visit tracker">
+  <img src="https://mapmyvisitors.com/map.png?d=fxbbVRsiz6VsOOs4tP5H61Prk-yEry04lqvyWlx_hOQ&cl=ffffff" alt="Visitor Map">
+</a>
